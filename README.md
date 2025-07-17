@@ -126,5 +126,14 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 [MIT](LICENSE)
 
 ---
+![Architecture Diagram](images/architecture.png)
 
+![DApp Dashboard](images/home.png)
 
+![IPFS](images/ipfs.png)
+![Compile Smartcontracts](images/smart.png)
+![Meta Mask](images/metamask.png)
+![Doc Reg](images/docreg.png)
+![Lab report](images/lab.png)
+
+#check image folder for other snaps
